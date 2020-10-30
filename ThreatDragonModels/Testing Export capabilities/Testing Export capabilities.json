@@ -136,12 +136,113 @@
               "id": "d3267c61-60c3-4701-a2ab-422c94406768",
               "z": 6,
               "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 124
+              },
+              "target": {
+                "x": 110,
+                "y": 204
+              },
+              "vertices": [],
+              "id": "a42589a9-b626-42c3-b6da-79d61526a7cc",
+              "z": 7,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 636,
+                "y": 16
+              },
+              "target": {
+                "x": 551,
+                "y": 795
+              },
+              "vertices": [
+                {
+                  "x": 718,
+                  "y": 138
+                },
+                {
+                  "x": 737,
+                  "y": 305
+                },
+                {
+                  "x": 741,
+                  "y": 435
+                },
+                {
+                  "x": 662,
+                  "y": 572
+                }
+              ],
+              "id": "d805b033-29b3-49e0-9825-f69106873c6e",
+              "z": 8,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "dc26aaf8-f655-4e78-a2e4-b093e84ab9f0",
+              "z": 9,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 7"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 362,
+                "y": 642
+              },
+              "angle": 0,
+              "id": "3e87644b-5024-4e8d-a5c8-ac67faeb1385",
+              "z": 10,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "INternet"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
         "size": {
-          "height": 725.9247436523438,
-          "width": 790
+          "height": 1188,
+          "width": 844
         }
       }
     ]
