@@ -10,7 +10,139 @@
       {
         "title": "Draft 1",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "4dcf08b1-1e83-4d28-b3dd-8d9ff376210e",
+              "z": 1,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Sensee"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 411,
+                "y": 58
+              },
+              "target": {
+                "x": 1,
+                "y": 229
+              },
+              "vertices": [
+                {
+                  "x": 305,
+                  "y": 208
+                },
+                {
+                  "x": 198,
+                  "y": 255
+                }
+              ],
+              "id": "a38f49f9-f3cc-4298-b645-8b8c3680c74e",
+              "z": 3,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 181,
+                "y": 380
+              },
+              "angle": 0,
+              "id": "cd7c7ccd-6503-4d75-b671-1fae29cfc5e9",
+              "z": 4,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Homeworker"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Store",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 97,
+                "y": 591
+              },
+              "angle": 0,
+              "id": "4bfa8206-11e4-4510-b09e-c4cf3180e745",
+              "z": 5,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Home PC"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 520,
+                "y": 108
+              },
+              "target": {
+                "x": 344,
+                "y": 636
+              },
+              "vertices": [
+                {
+                  "x": 603,
+                  "y": 234
+                }
+              ],
+              "id": "d3267c61-60c3-4701-a2ab-422c94406768",
+              "z": 6,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 725.9247436523438,
+          "width": 790
+        }
       }
     ]
   }
