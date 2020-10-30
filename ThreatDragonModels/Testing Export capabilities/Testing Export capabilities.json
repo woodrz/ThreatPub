@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Testing Export capabilities",
+    "owner": "woodrz",
+    "description": "Testing THreat Dragon"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Draft 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
